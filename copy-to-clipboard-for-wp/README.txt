@@ -2,7 +2,7 @@
 Contributors: noruzzaman, sanaf
 Tags: copy, Clipboard, copy to clipboard, paste, code snippets
 Requires at least: 5.0
-Tested up to: 6.7
+Tested up to: 6.8
 Stable tag: 1.8.0
 Requires PHP: 7.0
 License: GPLv2 or later
@@ -34,6 +34,8 @@ Integrating the **Copy to Clipboard for WordPress** feature offers numerous adva
 In conclusion, the **Copy to Clipboard for WordPress** feature is a valuable tool that brings convenience, efficiency, and error reduction to WordPress users. By enabling seamless content transfer and promoting streamlined workflows, this feature enhances content sharing, increases productivity, and improves the overall user experience. Integrating the **Copy to Clipboard** functionality within WordPress plugins can significantly benefit users, making their interactions with websites and applications more seamless and efficient.
 
 == Support ==
+
+If you encounter any issues or have questions about the plugin, please visit our support forum at **[Submit Ticket](https://wordpress.org/support/plugin/copy-to-clipboard-for-wp/)**. We are here to help you with any concerns you may have.
 
 If you have any questions, please email us at **[noruzzaman19@gmail.com](mailto:noruzzaman19@gmail.com)**
 
